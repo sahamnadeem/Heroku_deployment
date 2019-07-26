@@ -1,0 +1,22 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "heroku deplyment application using SQLite database and socket io for realtime communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahamnadeem/Heroku_deployment.git"
+  },
+  "author": "Saham Nadeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahamnadeem/Heroku_deployment/issues"
+  },
+  "homepage": "https://github.com/sahamnadeem/Heroku_deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
